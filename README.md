@@ -1,4 +1,4 @@
-# ETL Projects Portfolio
+# Projects Portfolio
 
 Welcome to my curated portfolio of ETL and data integration projects. Each entry reflects a commitment to precision, collaboration, and delivering solutions that drive real-world impact. These projects span healthcare, banking, and pharmaceutical domains, showcasing a blend of technical depth and strategic leadership.
 
